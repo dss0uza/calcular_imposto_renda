@@ -46,7 +46,7 @@ l
 
 ## 🎨 Layout
 
-![image](https://user-images.githubusercontent.com/115498938/196820796-a423df5f-b2f2-40f4-9db8-491ec052c858.png)
+![image](https://user-images.githubusercontent.com/115498938/197187724-8fa6d6a1-62a7-49b0-bd9e-9a070f04c35c.png)
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
